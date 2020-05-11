@@ -1,0 +1,19 @@
+{
+  "name": "luisa223.github.io",
+  "version": "1.0.0",
+  "description": "first try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisa223/Luisa223.github.io.git"
+  },
+  "author": "mee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luisa223/Luisa223.github.io/issues"
+  },
+  "homepage": "https://github.com/Luisa223/Luisa223.github.io#readme"
+}
